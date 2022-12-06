@@ -1,18 +1,13 @@
 /* styles go here */
 
 .field {
-  display: block;
   margin-bottom: 10px;
 }
 
-label {
-  display: inline-block;
-}
-
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-fieldset .field:last-child {
+.fieldset .field:last-child {
   margin: 0;
 }
